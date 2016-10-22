@@ -3,13 +3,14 @@ p,h2{
 }
 
 h1{
-	font-size:40px
+	font-size:40px;
 	font-family:Impact;
 	margin:20px 10px;
 }
 
 h2{
-	font-size:25px
+	font-size:25px;
+	margin:15px 10px 15px 25px;
 }
 
 p{
